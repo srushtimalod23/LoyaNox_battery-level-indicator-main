@@ -6,9 +6,9 @@ A simple Battery Level Indicator built using **React**, **Vite**, **Tailwind CSS
 
 > Add your project screenshot here.
 
-```md
+
 ![Project Screenshot](public/output.png)
-```
+
 
 ---
 
